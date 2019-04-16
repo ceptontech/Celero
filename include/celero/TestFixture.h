@@ -27,9 +27,6 @@
 #include <string>
 #include <vector>
 
-// This must be included last.
-#include <celero/ThreadLocal.h>
-
 namespace celero
 {
 	class Benchmark;
